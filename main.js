@@ -9,4 +9,4 @@ console.log(a);
 const b = 'just a string';
 console.log(`this is a: ${a}, and this is b: ${b}`);
 
-let str = 'asdasdas';
+let str = 'not just asdasdas, but something usefull';
