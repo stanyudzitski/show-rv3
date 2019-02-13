@@ -1,5 +1,5 @@
 var btn = document.getElementById('btn');
-btn.addEventListener('click', function() {
+btn.addEventListener('click', function () {
     console.log('Btn clicked!');
 });
 
@@ -26,8 +26,8 @@ myNum();
 myNum();
 
 
-let myNum1 = defaultFunc();
-myNum1();
-myNum1();
-myNum1();
-myNum1();
+let myNum123 = defaultFunc();
+myNum123();
+myNum123();
+myNum123();
+myNum123();
