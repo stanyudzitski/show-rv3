@@ -10,3 +10,7 @@ const b = 'just a string';
 console.log(`this is a: ${a}, and this is b: ${b}`);
 
 let str = 'not just asdasdas, but something usefull';
+
+function defaultFunc() {
+    return !!1;
+}
